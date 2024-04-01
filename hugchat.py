@@ -1,8 +1,7 @@
 import streamlit as st
 from transformers import pipeline
 from yt_dlp import YoutubeDL
-from hugchat import hugchat
-from hugchat.login import Login
+
 
 def download_audio_from_url(url):
     videoinfo = YoutubeDL().extract_info(url=url, download=False)
