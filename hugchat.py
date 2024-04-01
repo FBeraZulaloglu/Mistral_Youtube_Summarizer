@@ -1,6 +1,8 @@
 import streamlit as st
-
+from transformers import pipeline
 from yt_dlp import YoutubeDL
+from hugchat import hugchat
+from hugchat.login import Login
 
 def download_audio_from_url(url):
     videoinfo = YoutubeDL().extract_info(url=url, download=False)
@@ -15,8 +17,6 @@ def download_audio_from_url(url):
         ydl.download([videoinfo['webpage_url']])
     return filename, length
 
-
-from transformers import pipeline
 def transcribe_audio(filename):
     model = "facebook/wav2vec2-large-960h-lv60-self" #speech to text
 
@@ -33,8 +33,6 @@ def transcribe_audio(filename):
     transcript = open("transcript.txt", "r").read()
     print(len(transcript.split()))
     transcript
-    from hugchat import hugchat
-    from hugchat.login import Login
 
     if transcript!="":
 
