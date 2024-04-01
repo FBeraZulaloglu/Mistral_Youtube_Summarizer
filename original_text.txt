@@ -1,0 +1,130 @@
+what's up guys today we have a very
+quick tutorial showing you how you can
+set up an AI customer support line for
+your business or for those of your
+clients that's able to answer from a
+custom knowledge base let's get into it
+the best platform that I found to get
+these things set up quick and easily is
+called air AI so there'll be a link down
+in the description this is not a
+sponsored video you can click to create
+a free account of course I've already
+got my own here so once you've created
+an account and you've logged in you get
+to a screen that looks a little bit like
+this the first step to getting your
+custom knowledge AI agent set up is go
+to the knowledge base tab here click new
+knowledge base and here we're going to
+call it uh customer support KB call it
+whatever you want and here we can upload
+a document that's going to be added to
+our knowledge base so I'm going to go
+upload documents off screen I've created
+a demo for bills balloon Outlets which
+is something I've featured on the
+channel before a e-commerce store that
+sells balloons I've just use chat G to
+generate this you can use your own
+documents as you wish but the concept
+Remains the Same so add this in go next
+then what AI does on the side is splits
+all of the FAQs out into these flash
+cards which are super helpful we can add
+custom actions on which is outside the
+scope of this video but let me know down
+below if you'd like to see me do a video
+on that once we've created our knowledge
+base we have all the cards set up like
+this we can go back to create we can
+create a new agent I'm going to call
+this support bot customer
+service general
+standard I'm going to go at customer
+support KB knowledge base that we just
+created opening pullback answers what
+the AI is going to respond with if it
+doesn't have an answer in the KB and
+then we can go save now I want to make
+sure that we've connected the right
+knowledge face yep I want to maybe
+change the accent I let the southern
+female one here then with all of this
+set up we're almost ready to test things
+out what we need to do is just set up
+our twio account very quickly so if you
+click on Integrations up here and you go
+to the tlio settings if you go to
+too.com you need to log in or create an
+account if you don't have one already
+and here on the T dashboard we want to
+go to phone numbers manage buy a
+number here you can just click to buy a
+number you can choose the country or the
+area code that you want to pi the number
+for doesn't really matter once you
+bought a phone number it will appear in
+active numbers make sure that something
+is showing up here then to connect your
+toio to your AI account you can click on
+this console link up here takes you to
+your dashboard then you'll see in your
+account info the Sid and the or token so
+you want to copy both of these one at a
+Time come back and paste them in here
+and then save head to campaigns next we
+want to click launcher campaign scroll
+down and accept all these ter conditions
+going to call this support line we're
+going to change this to inbound calling
+going to select the agent the support B
+we've just created area code we can
+leave that then you can set a budget I'm
+just going to put $10 awesome I
+understand now that we have our phone
+line set up we can click on this and
+here we can see one of our too numbers
+that we just purchased has been assigned
+to the number that people can call into
+so now if I give these guys a
+ring hi this is Debbie Bill's wife
+welcome to Bill's balloons Outlet how
+can I help hi there I was wondering if
+you ship outside the United States
+currently we only ship within the United
+States okay and uh how long does
+shipping usually Che standard shipping
+usually takes about 3 to 5 business days
+but if you need your order sooner we do
+offer expedited shipping options for an
+additional fee cool I'm interested in a
+custom order do you do custom balloon
+ERS absolutely we specialize in custom
+balloons for personal events corporate
+branding and more just get in touch with
+our customer service for more
+information on custom orders sweet thank
+you and just like that we've been able
+to set up a static phone line that has
+an AI agent attached to it that can
+answer questions from our custom
+knowledge base this is a super handy
+thing to be able to do and of course the
+customer support use case is just one
+way of doing things but I hope that's
+been helpful for you guys I wanted to
+make it short and sweet showing you how
+to use Airi to get these things set up
+if you've enjoyed please hit down below
+and leave a like on the video and
+subscribe to the channel if you want
+more AI content like this teaching you
+how to build and sell AI Solutions if
+you're interested in learning more about
+AI voice use cases you can check out my
+video here breaking down how to make an
+outbound calling system but aside from
+that that's all from the video guys
+thank you so much for watching and I'll
+see you in the next one
